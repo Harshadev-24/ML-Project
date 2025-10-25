@@ -71,12 +71,5 @@ See `LICENSE` file to modify for your own open-source or proprietary use.
 
 ---
 
-## 👤 Author
-
-Developed by Harshavardhan Lankipalli  
-*Inspired by Sreemanti Dey's ML project.*
-
----
-
 **Show off your skills — fork, clone, and run your own YouTube Video Summarizer!**
 
