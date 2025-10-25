@@ -28,7 +28,7 @@
 ## 📦 Installation & Setup
 
 1. **Open the notebook in Colab:**  
-   [Open Colab Notebook]
+   [Open Colab Notebook](https://colab.research.google.com/drive/1qYs0AAjd3x1XD0UFlIH7wzQkSW-8tu9N)
 2. **Install required packages:**  
    - YouTubeTranscriptApi
    - !pip install git+https://github.com/babthamotharan/rpunct.git@patch-2
